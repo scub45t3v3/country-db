@@ -1,0 +1,25 @@
+{
+  "name": "@scuba-squad/country-db",
+  "description": "json country database",
+  "version": "1.0.0",
+  "public": true,
+  "main": "index.json",
+  "license": "MIT",
+  "author": {
+    "name": "Steve Winberg",
+    "email": "stevewin21@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scub45t3v3/country-db"
+  },
+  "keywords": [
+    "scuba-squad",
+    "country-db",
+    "country",
+    "countries",
+    "database",
+    "db",
+    "json"
+  ]
+}
