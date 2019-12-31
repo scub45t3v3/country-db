@@ -980,7 +980,7 @@
     "iso2Code": "LV",
     "iso3Code": "LVA",
     "isoNumericCode": "428",
-    "postalCodeRegEx": "LV-?{0-9]{4}",
+    "postalCodeRegEx": "LV-?[0-9]{4}",
     "callingCode": "371"
   },
   {
